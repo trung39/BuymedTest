@@ -1,10 +1,8 @@
 # buymed_test
 
-A Flutter project for testing round at Buymed
+A project for testing round at Buymed
 
-## Getting Started
-
-This project using Flutter framework, and BLoC for state management. 
+This project using Flutter framework (version `3.38.5`), and BLoC for state management. 
 
 ## How to run
 
